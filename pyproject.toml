@@ -10,7 +10,7 @@ bleach = "1.0.1"
 python = "^3.8"
 
 [tool.poetry.dev-dependencies]
-python = "*"
+python = "^3.8"
 
 [build-system]
 requires = ["poetry>=0.12"]
